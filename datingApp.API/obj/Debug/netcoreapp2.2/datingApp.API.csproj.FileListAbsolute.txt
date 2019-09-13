@@ -1,0 +1,14 @@
+C:\Users\thema\Desktop\datingApp\datingApp.API\bin\Debug\netcoreapp2.2\datingApp.API.deps.json
+C:\Users\thema\Desktop\datingApp\datingApp.API\bin\Debug\netcoreapp2.2\datingApp.API.runtimeconfig.json
+C:\Users\thema\Desktop\datingApp\datingApp.API\bin\Debug\netcoreapp2.2\datingApp.API.runtimeconfig.dev.json
+C:\Users\thema\Desktop\datingApp\datingApp.API\bin\Debug\netcoreapp2.2\datingApp.API.dll
+C:\Users\thema\Desktop\datingApp\datingApp.API\bin\Debug\netcoreapp2.2\datingApp.API.pdb
+C:\Users\thema\Desktop\datingApp\datingApp.API\obj\Debug\netcoreapp2.2\datingApp.API.csprojAssemblyReference.cache
+C:\Users\thema\Desktop\datingApp\datingApp.API\obj\Debug\netcoreapp2.2\datingApp.API.csproj.CoreCompileInputs.cache
+C:\Users\thema\Desktop\datingApp\datingApp.API\obj\Debug\netcoreapp2.2\datingApp.API.RazorAssemblyInfo.cache
+C:\Users\thema\Desktop\datingApp\datingApp.API\obj\Debug\netcoreapp2.2\datingApp.API.RazorAssemblyInfo.cs
+C:\Users\thema\Desktop\datingApp\datingApp.API\obj\Debug\netcoreapp2.2\datingApp.API.AssemblyInfoInputs.cache
+C:\Users\thema\Desktop\datingApp\datingApp.API\obj\Debug\netcoreapp2.2\datingApp.API.AssemblyInfo.cs
+C:\Users\thema\Desktop\datingApp\datingApp.API\obj\Debug\netcoreapp2.2\datingApp.API.RazorTargetAssemblyInfo.cache
+C:\Users\thema\Desktop\datingApp\datingApp.API\obj\Debug\netcoreapp2.2\datingApp.API.dll
+C:\Users\thema\Desktop\datingApp\datingApp.API\obj\Debug\netcoreapp2.2\datingApp.API.pdb
