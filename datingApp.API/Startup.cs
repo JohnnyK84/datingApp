@@ -31,6 +31,8 @@ namespace datingApp.API
             //inject DataContext service here
             services.AddDbContext<DataContext>(x => x.UseSqlite(Configuration.GetConnectionString("DefaultConnection")));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            //Add Cors service to stop security error in browser
+            services.AddCors();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -46,6 +48,8 @@ namespace datingApp.API
                 // app.UseHsts(); disabled for now for safety
             }
 
+            // allow anyCors for early development (Fine for development but may look insecure)
+            app.UseCors(x => x.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
             // app.UseHttpsRedirection(); disabled for simplicity 
             app.UseMvc();
         }
